@@ -1,14 +1,16 @@
 <?php
 /*
 Plugin Name: Custom Login Path
-Plugin URI: https://github.com/FahmiRabbani/custom-login-path
-Description: Ganti wp-login.php dan wp-admin dengan URL login kustom yang bisa Anda tentukan. Sembunyikan URL login WordPress Anda untuk keamanan ekstra.
-Version: 1.0.0
-Author: Fahmi M. Rabbani
-Author URI: https://wafiqdigital.com/custom-login-path
-License: GPL2
+Plugin URI:  https://wafiqdigital.com/custom-login-path
+Support URI: https://github.com/FahmiRabbani/custom-login-path
+Description: Ubah URL login WordPress standar menjadi path kustom yang lebih aman dan tersembunyi.
+Version:     1.0.0
+Author:      Fahmi M. Rabbani
+Author URI:  https://wafiqdigital.com
+Donate link: https://wafiqdigital.com/donate
+License:     GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: custom-login-url
+Text Domain: custom-login-path
 */
 
 
