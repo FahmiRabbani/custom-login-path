@@ -2,12 +2,12 @@
 Contributors: Fahmi M. Rabbani
 Tags: login, hide login, change wp-login.php, custom login url, security
 Requires at least: 5.0
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Ganti URL login WordPress Anda dari wp-login.php ke tautan khusus yang Anda tentukan. Tingkatkan keamanan situs Anda dari bot dan serangan brute-force.
+Description: Ubah URL login default WordPress menjadi slug kustom untuk meningkatkan keamanan.
 
 == Description ==
 
