@@ -1,5 +1,5 @@
-=== Custom Login URL ===
-Contributors: fahmirabbani
+=== Custom Login Path ===
+Contributors: Fahmi M. Rabbani
 Tags: login, hide login, change wp-login.php, custom login url, security
 Requires at least: 5.0
 Tested up to: 6.5
@@ -11,7 +11,7 @@ Ganti URL login WordPress Anda dari wp-login.php ke tautan khusus yang Anda tent
 
 == Description ==
 
-**Custom Login URL** memungkinkan Anda untuk:
+**Custom Login Path** memungkinkan Anda untuk:
 - Menyembunyikan halaman `wp-login.php` dan `wp-admin`
 - Mengalihkan URL login ke tautan yang Anda tentukan, misalnya: `example.com/loginku`
 - Menambahkan pengaturan di menu *Settings > Custom Login URL*
