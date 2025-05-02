@@ -1,12 +1,14 @@
 <?php
 /*
-Plugin Name: Hide WP Login URL
-Description: Mengganti wp-login.php dan wp-admin ke URL kustom.
-Version: 1.0
+Plugin Name: Custom Login URL
+Plugin URI: https://github.com/FahmiRabbani/custom-login-url
+Description: Ganti wp-login.php dan wp-admin dengan URL login kustom yang bisa Anda tentukan. Sembunyikan URL login WordPress Anda untuk keamanan ekstra.
+Version: 1.0.0
 Author: Fahmi M. Rabbani
 Author URI: https://wafiqdigital.com
-Plugin URI: https://wafiqdigital.com/hide-wp-login-url
 License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: custom-login-url
 */
 
 
